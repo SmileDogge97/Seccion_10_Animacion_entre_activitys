@@ -12,5 +12,11 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="android:windowSharedElementEnterTransition">
+            @transition/grid_transition_detail
+        </item>
+        <item name="android:windowSharedElementExitTransition">
+            @transition/grid_transition_detail
+        </item>
     </style>
 </resources>

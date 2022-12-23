@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CL08_Animación_compartido_entre_Activities</string>
+    <string name="lipsum">Fusce eget sagittis magna. Vestibulum vel ex gravida sapien hendrerit dignissim. Morbi venenatis, dui a maximus aliquet, turpis dui consectetur erat, in mattis nisi purus id magna. In condimentum condimentum sem in dignissim. Maecenas magna erat, vulputate in risus in, tempus molestie mauris. Vivamus feugiat dolor mauris, ac accumsan est congue vel. Maecenas fermentum elit et lacus interdum vestibulum. Praesent consectetur ex et nulla egestas gravida.</string>
 </resources>
